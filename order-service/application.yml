@@ -1,0 +1,17 @@
+#SWAGGER
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+
+#ACTUATOR
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+    health:
+      show-details: always
+
+
+
+
