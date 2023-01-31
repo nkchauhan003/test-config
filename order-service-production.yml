@@ -14,4 +14,4 @@ management:
 #CUSTOM
 app:
   region:
-    id: 5000
+    id: 1000
