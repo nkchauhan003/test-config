@@ -11,7 +11,3 @@ management:
         include: "*"
     health:
       show-details: always
-
-
-
-
